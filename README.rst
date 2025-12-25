@@ -1,7 +1,11 @@
-ChronosChess
-============
+Vantage Chess
+=============
 
-**ChronosChess** is a modern, feature-rich Python Chess application built with **Pygame** and **python-chess**. It integrates the powerful **Stockfish** engine for AI play and features a unique "Time Travel" system to review and branch game history.
+**Vantage Chess** is a modern, feature-rich Python Chess application built with **Pygame** and **python-chess**. It integrates the powerful **Stockfish** engine for AI play and features a unique **Time Travel** system to review and branch game history.
+
+.. image:: gameplay.png
+   :alt: Vantage Chess Gameplay
+   :align: center
 
 Features
 --------
