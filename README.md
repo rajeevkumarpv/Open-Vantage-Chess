@@ -1,2 +1,2 @@
 # Open-Vantage-Chess
-a modern Python-based Chess engine interface built from scratch with Ai
+a modern Python-based Chess engine interface built from scratch with Antigravity.
